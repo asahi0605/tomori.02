@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 478 414.9">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke-linecap: square;
+        stroke-width: 20px;
+      }
+
+      .st0, .st1 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st1, .st2 {
+        stroke: #000;
+      }
+
+      .st1 {
+        stroke-width: 9.6px;
+      }
+
+      .st3 {
+        fill: #fff;
+      }
+
+      .st2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 9.5px;
+      }
+
+      .st4, .st5 {
+        isolation: isolate;
+      }
+
+      .st5 {
+        font-family: PalatinoLinotype-Bold, 'Palatino Linotype';
+        font-size: 100px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_2-2">
+    <g>
+      <path class="st0" d="M45,283.8c0-106.6,86.4-193,193-193s193,86.4,193,193"/>
+      <g class="st4">
+        <g class="st4">
+          <text class="st5" transform="translate(53.7 181.8) rotate(-51.9)"><tspan x="0" y="0">T</tspan></text>
+        </g>
+      </g>
+      <g class="st4">
+        <g class="st4">
+          <text class="st5" transform="translate(89.6 132.2) rotate(-33.1)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+      <g class="st4">
+        <g class="st4">
+          <text class="st5" transform="translate(159.2 84.8) rotate(-8)"><tspan x="0" y="0">M</tspan></text>
+        </g>
+      </g>
+      <g class="st4">
+        <g class="st4">
+          <text class="st5" transform="translate(258.6 72.6) rotate(16.9)"><tspan x="0" y="0">O</tspan></text>
+        </g>
+      </g>
+      <g class="st4">
+        <g class="st4">
+          <text class="st5" transform="translate(339.9 99) rotate(38.7)"><tspan x="0" y="0">R</tspan></text>
+        </g>
+      </g>
+      <g class="st4">
+        <g class="st4">
+          <text class="st5" transform="translate(399.2 150.9) rotate(55.8)"><tspan x="0" y="0">I</tspan></text>
+        </g>
+      </g>
+      <g>
+        <path class="st3" d="M238.6,407.4c-61.2,0-111-49.8-111-111s49.8-111,111-111,111,49.8,111,111-49.8,111-111,111Z"/>
+        <path d="M238.6,192.9c57.1,0,103.5,46.4,103.5,103.5s-46.4,103.5-103.5,103.5-103.5-46.4-103.5-103.5,46.4-103.5,103.5-103.5M238.6,177.9c-65.4,0-118.5,53.1-118.5,118.5s53.1,118.5,118.5,118.5,118.5-53,118.5-118.5-53-118.5-118.5-118.5h0Z"/>
+      </g>
+      <rect x="187.5" y="160.1" width="101" height="29"/>
+      <line class="st1" x1="238" y1="179.3" x2="238" y2="93.3"/>
+      <path class="st2" d="M302.4,295.5c-36.4-9.3-57-31.2-65.6-64.6-7.6,30.3-26.5,56.3-64.4,64.4,1.1.2,2.1.5,3.2.7.3,0,.6.1.9.2,35.2,9.1,53,34.2,60.4,63.5,8-31.2,25.2-52.1,57.2-62.2,2.8-.8,5.5-1.4,8.4-2-.2,0-.5-.1-.7-.2"/>
+    </g>
+  </g>
+</svg>
