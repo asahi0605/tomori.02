@@ -3,6 +3,7 @@
 body{
   font-family: "Montserrat","Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   font-size: 1.4rem;
+  font-family: monospace;
 }
 .wrapper{
   max-width: 1200px;
@@ -1013,4 +1014,5 @@ input.text{
       display: block;
     }
   }
+
 }
